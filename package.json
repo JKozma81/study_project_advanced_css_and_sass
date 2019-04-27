@@ -1,0 +1,23 @@
+{
+  "name": "study_project_advanced_css_and_sass",
+  "version": "1.0.0",
+  "description": "Study project for the Advanced css and sass course on Udemy",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKozma81/study_project_advanced_css_and_sass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JKozma81/study_project_advanced_css_and_sass/issues"
+  },
+  "homepage": "https://github.com/JKozma81/study_project_advanced_css_and_sass#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
