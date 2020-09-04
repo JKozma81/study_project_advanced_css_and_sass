@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/JKozma81/study_project_advanced_css_and_sass#readme",
   "devDependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.13.1"
   }
 }
